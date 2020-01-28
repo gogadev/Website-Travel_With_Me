@@ -2,7 +2,7 @@
 
 Website for photographers, adventurers, influencers, ...people who enjoy traveling, taking photos and sharing their experiences online.
 
-Preview Of The Website: https://travel-with-me.netlify.com/
+Preview Of The Project: https://travel-with-me.netlify.com/
 
 ## Using
 
